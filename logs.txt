@@ -1,0 +1,26 @@
+omar@omar-VirtualBox:~/Documents$ sudo groupadd newGroup
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user1
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user2
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user3
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user4
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user5
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user6
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user7
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user8
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user9
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user10
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user11
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user12
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user13
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user14
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user15
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user16
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user17
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user18
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user19
+omar@omar-VirtualBox:~/Documents$ sudo useradd -g newGroup user20
+omar@omar-VirtualBox:~/Documents$ groups user1
+user1 : newGroup
+omar@omar-VirtualBox:~/Documents$ groups user14
+user14 : newGroup
+

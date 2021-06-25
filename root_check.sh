@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 if ((EUID != 0)); then
 	echo "This script can only run as root"
